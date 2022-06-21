@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+        </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./main.css">
+    <link rel="stylesheet" href="./resp.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="start-quiz">
+        <button id="start-quiz-id">Start Quiz</button>
+    </div>
+    <div class="rule-of-quiz">
+        <h1>Some Rules of this Quiz</h1>
+
+        <ul class="list-rule">
+            <li class="item-rule">1. You will have only <span>15 seconds</span> per each question.</li>
+            <li class="item-rule">2. Once you select your answer, it can't be undone.</li>
+            <li class="item-rule">3. You can't select any option once time goes off.</li>
+            <li class="item-rule">4. You can't exit from the Quiz while you're playing.</li>
+            <li class="item-rule">5. You'll get points on the basis of your correct answers.</li>
+        </ul>
+        <div class="button-rule">
+            <button class="exit-quiz button-rule-btn">Exit Quiz</button>
+            <button class="button-rule__continue button-rule-btn">Continue</button>
+        </div>
+    </div>
+    <div class="question-quiz">
+        <div class="question-quiz__header">
+            <p class="question-quiz__header__title">Awesome Quiz Application</p>
+            <p class="question-quiz__header__time">Time Left <span class="time-cooldown"></span></p>
+        </div>
+        <div class="question-quiz__body">
+            <h1 class="question-quiz__body__question">What does HTML stand for?</h1>
+            <ul class="question-quiz__body__list-answer">
+                <!--<li class="qustion-quiz__body__item-answer">
+                    <p>Hyper Text Preprocessor</p>
+                    <i class="fa-solid fa-circle-check"></i>
+                </li>
+                <li class="qustion-quiz__body__item-answer">
+                    <p>Hyper Text Preprocessor</p>
+                    <i class="fa-solid fa-circle-xmark wrong"></i>
+                </li>
+                <li class="qustion-quiz__body__item-answer">
+                    <p>Hyper Text Preprocessor</p>
+                    <i class="fa-solid fa-circle-check"></i>
+                </li>
+                <li class="qustion-quiz__body__item-answer">
+                    <p>Hyper Text Preprocessor</p>
+                    <i class="fa-solid fa-circle-check conrect"></i>
+                </li>-->
+            </ul>
+        </div>
+        <div class="question-quiz__footer">
+            <p class="question-quiz__footer__total-question">
+                
+            </p>
+            <button id="next-question">Next Que</button>
+        </div>
+        
+    </div>
+    <div class="complete-question">
+        <i class="fa-solid fa-crown"></i>
+        <p>You're completed the Quiz!</p>
+        <p class="complete-question__result">and sorry, You got only 2 out of 5</p>
+        <div class="completed-btn">
+            <button id="replay-quiz">Replay Quiz</button>
+            <button id="quit-quiz">Quit Quiz</button>
+        </div>
+    </div>
+
+
+    <script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+@media (max-width: 575px) {
+    .rule-of-quiz,.question-quiz,.complete-question{
+        width: 98%;
+
+        top:45%;
+    }
+    
+}

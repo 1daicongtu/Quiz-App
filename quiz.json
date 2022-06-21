@@ -1,0 +1,277 @@
+[
+    {
+    "numb": 1,
+    "question": "What does HTML stand for?",
+    "answer": "Hyper Text Markup Language",
+    "options": [
+      "Hyper Text Preprocessor",
+      "Hyper Text Markup Language",
+      "Hyper Text Multiple Language",
+      "Hyper Tool Multi Language"
+    ]
+  },
+    {
+    "numb": 2,
+    "question": "What does CSS stand for?",
+    "answer": "Cascading Style Sheet",
+    "options": [
+      "Common Style Sheet",
+      "Colorful Style Sheet",
+      "Computer Style Sheet",
+      "Cascading Style Sheet"
+    ]
+  },
+    {
+    "numb": 3,
+    "question": "What does PHP stand for?",
+    "answer": "Hypertext Preprocessor",
+    "options": [
+      "Hypertext Preprocessor",
+      "Hypertext Programming",
+      "Hypertext Preprogramming",
+      "Hometext Preprocessor"
+    ]
+  },
+    {
+    "numb": 4,
+    "question": "What does SQL stand for?",
+    "answer": "Structured Query Language",
+    "options": [
+      "Stylish Question Language",
+      "Stylesheet Query Language",
+      "Statement Question Language",
+      "Structured Query Language"
+    ]
+  },
+    {
+    "numb": 5,
+    "question": "What does XML stand for?",
+    "answer": "eXtensible Markup Language",
+    "options": [
+      "eXtensible Markup Language",
+      "eXecutable Multiple Language",
+      "eXTra Multi-Program Language",
+      "eXamine Multiple Language"
+    ]
+  },
+  {
+    "numb": 6,
+    "question": "An HTML document can contain _____",
+    "answer": "All the answers are true",
+    "options": [
+      "Attributes",
+      "Tags",
+      "Raw text",
+      "All the answers are true"
+    ]
+  },
+  {
+    "numb": 7,
+    "question": "A page designed in HTML is called ____",
+    "answer": "Web Page",
+    "options": [
+      "Application",
+      "Cover page",
+      "Front-end",
+      "Web Page"
+    ]
+  },
+  {
+    "numb": 8,
+    "question": "An HTML document is saved with the ____ extension.",
+    "answer": ".html",
+    "options": [
+      ".htl",
+      ".html",
+      ".hml",
+      ".htnl"
+    ]
+  },
+  {
+    "numb": 9,
+    "question": "The HTML document contains a root tag called ____",
+    "answer": "HTML",
+    "options": [
+      "HEAD",
+      "Title",
+      "Body",
+      "HTML"
+    ]
+  },
+  {
+    "numb": 10,
+    "question": "If we want to place text around an image, which CSS property should we use?",
+    "answer": "float",
+    "options": [
+      "push",
+      "float",
+      "align",
+      "wrap"
+    ]
+  },
+  {
+    "numb": 11,
+    "question": "Suppose we want to arrange three DIVs so that DIV 3 is placed above DIV1. Now, which CSS property are we going to use to control the stack order?",
+    "answer": "z-index",
+    "options": [
+      "d-index",
+      "s-index",
+      "x-index",
+      "z-index"
+    ]
+  },
+  {
+    "numb": 12,
+    "question": "Choose the correct HTML tag for a large title.",
+    "answer": "H1",
+    "options": [
+      "H1",
+      "Heading",
+      "Head",
+      "H6"
+    ]
+  },
+  {
+    "numb": 13,
+    "question": "Which element has very similar properties to the DIV element?",
+    "answer": "span",
+    "options": [
+      "strong",
+      "span",
+      "table",
+      "All the answers are true"
+    ]
+  },
+  {
+    "numb": 14,
+    "question": "Which attribute can be used with the <table> tag to give your table a border?",
+    "answer": "border",
+    "options": [
+      "line",
+      "border",
+      "margin-left border",
+      "All the answers are true"
+    ]
+  },
+  {
+    "numb": 15,
+    "question": "HTML web pages can be read and rendered by the _________.",
+    "answer": "Web browser",
+    "options": [
+      "Compiler",
+      "Server",
+      "Web browser",
+      "Interpreter"
+    ]
+  },
+  {
+    "numb": 16,
+    "question": "HTML is a subset of ______ ?",
+    "answer": "SGML",
+    "options": [
+      "SGML",
+      "SGMD",
+      "SGMT",
+      "None of the above"
+    ]
+  },
+  {
+    "numb": 17,
+    "question": "What is the latest version of CSS available?",
+    "answer": "CSS3",
+    "options": [
+      "CSS2",
+      "CSS3",
+      "CSS3.1",
+      "CSS4"
+    ]
+  },
+  {
+    "numb": 18,
+    "question": "Which of the following properties defines the font size of the text?",
+    "answer": "font-size",
+    "options": [
+      "text-size",
+      "font-size",
+      "size",
+      "text"
+    ]
+  },
+  {
+    "numb": 19,
+    "question": "Which of the following properties defines the spacing between letters?",
+    "answer": "letter-spacing",
+    "options": [
+      "space",
+      "line-height",
+      "letter-spacing",
+      "None of the above"
+    ]
+  },
+  {
+    "numb": 20,
+    "question": "The first page of a website is called _____.",
+    "answer": "Home page",
+    "options": [
+      "Design page",
+      "Home page",
+      "Front page",
+      "Main page"
+    ]
+  },
+  {
+    "numb": 21,
+    "question": "The Head tag is used for?",
+    "answer": "All the answers are true",
+    "options": [
+      "Writing CSS styles",
+      "Writing Javascript",
+      "Including CSS and JS files",
+      "All the answers are true"
+    ]
+  },
+  {
+    "numb": 22,
+    "question": "In HTML, Uniform Resource Locator (URL) is used _____",
+    "answer": "To identify a name or a resource on the Internet.",
+    "options": [
+      "To create a frame document.",
+      "To create an image map in a web page.",
+      "To customize the image in a web page.",
+      "To identify a name or a resource on the Internet."
+    ]
+  },
+  {
+    "numb": 23,
+    "question": "Which of the following protocols is not used on the Internet?",
+    "answer": "WIRL",
+    "options": [
+      "Gopher",
+      "HTTP",
+      "WIRL",
+      "Telnet"
+    ]
+  },
+  {
+    "numb": 24,
+    "question": "What attribute can be added to many HTML/XHTML elements to identify them as a member of a specific group?",
+    "answer": "class",
+    "options": [
+      "Id",
+      "class",
+      "div",
+      "span"
+    ]
+  },
+  {
+    "numb": 25,
+    "question": "What is the purpose of HTML forms?",
+    "answer": "To collect user input.",
+    "options": [
+      "To display the content of an email.",
+      "To display animation effect.",
+      "To collect user input.",
+      "None of the above"
+    ]
+  }
+]
